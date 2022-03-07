@@ -29,3 +29,5 @@ content: >-
 ```
 
 ![Dashboard Example Card](doc/dasboard-card-example.png)
+
+![Exceprt of sensor states provided by this integration](doc/states.png)
